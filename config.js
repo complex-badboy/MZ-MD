@@ -1,0 +1,21 @@
+module.exports = {
+    AUTO_VIEW_STATUS: 'true',
+    AUTO_LIKE_STATUS: 'true',
+    AUTO_RECORDING: 'true',
+    AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '🪴', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '😘', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💗'],
+    PREFIX: '.',
+    MAX_RETRIES: 3,
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Bp7n9LfdcXo8JAz4Spvuey?mode=ac_t',
+    ADMIN_LIST_PATH: './admin.json',
+    IMAGE_PATH: 'https://files.catbox.moe/y9ag28.jpg',
+    NEWSLETTER_JID: '120363399707841760@newsletter
+    NEWSLETTER_MESSAGE_ID: '428',
+    OTP_EXPIRY: 300000,
+    NEWS_JSON_URL: '',
+    BOT_NAME: 'cyberdevs ᴍɪɴɪ',
+    OWNER_NAME: 'SNOWBIRD,
+    OWNER_NUMBER: '263780145644',
+    BOT_VERSION: '5.0.0',
+    BOT_FOOTER: '> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ SNOWBIRD,
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C',
+};
